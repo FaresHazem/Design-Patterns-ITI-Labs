@@ -4,9 +4,10 @@ Comprehensive JavaScript laboratory exercises covering core Design Patterns conc
 
 ## 📚 Lab Modules
 
-| Lab       | Topics                                                         | Focus                            |
-| --------- | -------------------------------------------------------------- | -------------------------------- |
-| **Lab 1** | Abstract Factory, Singleton, Prototype, Builder               | Creational Patterns Fundamentals |
+| Lab       | Topics                                          | Focus                            |
+| --------- | ----------------------------------------------- | -------------------------------- |
+| **Lab 1** | Abstract Factory, Singleton, Prototype, Builder | Creational Patterns Fundamentals |
+| **Lab 2** | Decorator, Proxy, Bridge, Composite, Facade     | Structural Patterns Fundamentals |
 
 ## 🚀 Quick Start
 
